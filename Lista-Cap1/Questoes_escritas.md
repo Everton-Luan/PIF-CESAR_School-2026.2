@@ -103,6 +103,7 @@ três
 
 ## Questão 11 - Resolução
 
+```
 * '\r'     | Constante de caractere         |char
 * 2130     | Constante inteira decimal      |int
 * -123     | Constante inteira decimal      |int
@@ -118,6 +119,7 @@ três
 * '\0'     | Constante de caractere         |char
 * "F"      | Constante string               |char[]
 * -4567.89 | Constante de ponto flutuante   |double
+```
 
 ## Questão 12 - Resolução
 

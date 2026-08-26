@@ -14,8 +14,11 @@ void FormataTempo(int Segundos){
     if (NumSegundos == 1){
         strcpy(segundos, "segundo");
     }
-
-    printf("%d segundo(s) equivalem a: %d %s, %d %s, %d %s", Segundos, NumHoras, horas, NumMinutos, minutos, NumSegundos, segundos);
+    if (Segundos == 1){
+        printf("%d segundo equivale a: %d %s, %d %s, %d %s", Segundos, NumHoras, horas, NumMinutos, minutos, NumSegundos, segundos);
+    }else{
+        printf("%d segundos equivalem a: %d %s, %d %s, %d %s", Segundos, NumHoras, horas, NumMinutos, minutos, NumSegundos, segundos);
+    }
 }
 
 int main(){
