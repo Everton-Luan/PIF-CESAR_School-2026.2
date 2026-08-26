@@ -123,6 +123,7 @@ três
 
 ## Questão 12 - Resolução
 
+```
 * int a;           | Correto   | Declaração válida.
 * float b;         | Correto   | Declaração válida.
 * double float c;  | Incorreto | Isso é inválido, double e float são tipos flutuantes diferentes.
@@ -130,7 +131,8 @@ três
 * unsigned e;      | Correto   | Declaração válida. Quando não é passado o tipo do unsigned, o C entende que é unsigned int.
 * long float f;    | Incorreto | Incorreto porque o long não pode ser combinado com float, apenas com double.
 * long g;          | Correto   | Declaração válida.
-* long double h;   | Correto   | long double é um tipo válido de ponto flutuante com precisão igual ou superior à de double. 
+* long double h;   | Correto   | long double é um tipo válido de ponto flutuante com precisão igual ou superior à de double.
+``` 
 
 ## Questão 13 - Resolução
 
