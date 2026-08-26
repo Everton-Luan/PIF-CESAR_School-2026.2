@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main(){
+    //Carro
+    printf("\xdc\xdc\xdb\xdb\xdb\xdb\xdc\xdc\n");
+    printf("\xdfO\xdf\xdf\xdf\xdf\xdfO\xdf\n\n");
+
+    //Caminhão
+    printf(" \xdc\xdc\xdb \xdb\xdb\xdb\xdb\xdb\xdb\n");
+    printf(" \xdfO\xdf\xdf\xdf\xdf\xdfOO\xdf");
+
+    return 0;
+}
