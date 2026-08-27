@@ -13,6 +13,17 @@
 * O texto antes da virgula, e dentro da abertura de parâmetros de printf() deveria estar dentro de aspas duplas para a função print funcionar.
 ### Erro 5 [ cout << endl; ]:
 * Esse comando não existe em C, ele é nativo do C++.
+### Código correto:
+```
+#include <stdio.h>
+#include <stdlib.h>
+int Main()
+{
+    printf("Existem %d semanas no ano.", 52);
+    system("PAUSE");
+    return 0;
+}
+```
 
 ## Questão 05 - Resolução
 
