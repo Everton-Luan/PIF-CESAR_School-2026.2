@@ -15,7 +15,7 @@ int main() {
     printf("Digite o terceiro valor: ");
     scanf("%d", &valor3);
 
-    media = (valor1 + valor2 + valor3) / 3;
+    media = (valor1 + valor2 + valor3) / 3.0;
 
     printf("Média aritmética: %.2f\n", media);
 
