@@ -2,3 +2,4 @@
 Este repositório irá armazenar a resolução da listas da disciplina Programação Imperativa e Funcional (PIF).
 * Lista de exercícios - Cap 1 [✔]
 * Lista de exercícios - Cap 2 [✔]
+* Lista de exercícios - Cap 3 [✔]
