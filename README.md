@@ -3,3 +3,4 @@ Este repositório irá armazenar a resolução da listas da disciplina Programa�
 * Lista de exercícios - Cap 1 [✔]
 * Lista de exercícios - Cap 2 [✔]
 * Lista de exercícios - Cap 3 [✔]
+* Lista de exercícios - Cap 4 [✔]
